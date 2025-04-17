@@ -6,3 +6,4 @@ and post
 bg.png
 logo_p.png
 result.jpg
+in images folder
